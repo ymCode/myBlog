@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		772D4C9C2A94A29A00A9A58C /* MyBlog */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = MyBlog; sourceTree = BUILT_PRODUCTS_DIR; };
 		772D4C9F2A94A29A00A9A58C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		772D4CBB2A94BA1900A9A58C /* 引用和指针.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "引用和指针.md"; sourceTree = "<group>"; };
+		772D4F092A97440400A9A58C /* swift随笔.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "swift随笔.md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 		772D4C9E2A94A29A00A9A58C /* MyBlog */ = {
 			isa = PBXGroup;
 			children = (
+				772D4F082A9743DE00A9A58C /* Swift */,
 				772D4CA62A94A2A300A9A58C /* C++ */,
 				772D4C9F2A94A29A00A9A58C /* main.m */,
 			);
@@ -74,8 +77,17 @@
 		772D4CA72A94A2AC00A9A58C /* Basic */ = {
 			isa = PBXGroup;
 			children = (
+				772D4CBB2A94BA1900A9A58C /* 引用和指针.md */,
 			);
 			path = Basic;
+			sourceTree = "<group>";
+		};
+		772D4F082A9743DE00A9A58C /* Swift */ = {
+			isa = PBXGroup;
+			children = (
+				772D4F092A97440400A9A58C /* swift随笔.md */,
+			);
+			path = Swift;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
