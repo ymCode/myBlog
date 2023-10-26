@@ -27,6 +27,7 @@
 		772D4C9F2A94A29A00A9A58C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		772D4CBB2A94BA1900A9A58C /* 引用和指针.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "引用和指针.md"; sourceTree = "<group>"; };
 		772D4F092A97440400A9A58C /* swift随笔.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "swift随笔.md"; sourceTree = "<group>"; };
+		77E42A992AA821FB00980A82 /* c++内容概述.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "c++内容概述.md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +79,7 @@
 			isa = PBXGroup;
 			children = (
 				772D4CBB2A94BA1900A9A58C /* 引用和指针.md */,
+				77E42A992AA821FB00980A82 /* c++内容概述.md */,
 			);
 			path = Basic;
 			sourceTree = "<group>";
